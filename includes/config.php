@@ -1,9 +1,9 @@
 <?php
 
-$host = 'localhost';
-$dbname = 'Librarydatabse';
-$dbuser = 'root';
-$dbpass = '';
+$host = 'sql109.infinityfree.com';
+$dbname = 'if0_43172178_library';
+$dbuser = 'if0_43172178';
+$dbpass = 'qkaGoHAAAdTt';
 
 session_start();
 
